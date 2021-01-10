@@ -1,1 +1,1 @@
-# ganTrade-app-react
+# gant-trade-app-react
